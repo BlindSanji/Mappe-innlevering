@@ -3,3 +3,6 @@
 ## Innhold
 - sample
     - sample
+
+## Implementering
+- Gjenbrukbar kode
