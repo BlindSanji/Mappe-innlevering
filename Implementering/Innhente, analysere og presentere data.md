@@ -25,6 +25,7 @@ def search():
             flash("Sorry, an error ocurred while processing your request.", 'error')
             return redirect('home')
 ```
+- [Filmapp ruter fil](https://github.com/BlindSanji/movieapp/blob/main/project/routes.py)
 - Presentering av data
 ```html
 <!-- Bruker resultatene fra søket og viser film-plakaten til filmene i resultatene. -->
@@ -34,3 +35,4 @@ def search():
 </div>
 {% endfor %}
 ```
+- [Filmapp search.html](https://github.com/BlindSanji/movieapp/blob/main/project/templates/search.html)
